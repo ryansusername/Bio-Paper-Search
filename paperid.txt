@@ -1,0 +1,46 @@
+input 	title:	 Geographical Distributions and Spatial Equilibrium in Historical 			 Epidemics of the United States
+input 	keywords:	 ['epidemics', 'geographical', 'distribution', 				  'mathematical', 'model', 'equilibrium', 'United', 				  'States']
+
+
+
+ULMFIT 	paperid:	 284380
+ULMFIT 	title:	 The infection dynamics of vertically transmitted viruses in a two-population model
+ULMFIT 	keywords:	 ['host-parasite', 'interaction', 'theory', 'vertical', 			  'transmission', 'migration', 'mathematical', 'modelling', 				  'bistability', 'Drosophila', 'sigma', 'virus', 				  'geographic', 'mosaic']
+
+
+
+ULMFIT 	paperid:	 108589
+ULMFIT 	title:	 Can Ebola Virus evolve to be less virulent in humans?
+ULMFIT 	keywords:	 ['case', 'fatality', 'ratio', 'virulence', 'EBOV', 				  'transmission', 'evolutionary', 'epidemiology', 'public', 				  'health', 'trade-offs', 'outbreak', 'adaptation']
+
+
+
+ULMFIT 	paperid:	 431304
+ULMFIT 	title:	 Managing Marek's disease in the egg industry
+ULMFIT 	keywords:	 []
+
+
+
+
+BERT 	paperid:	 265942
+BERT 	title:	 Downgrading disease transmission risk estimates using terminal 		importations
+BERT 	keywords:	 []
+BERT 	paperid:	 468629
+BERT 	title:	 Eliminating yellow fever epidemics in Africa: vaccine demand 			 forecast and impact modelling
+BERT 	keywords:	 []
+BERT 	paperid:	 485821
+BERT 	title:	 Rigorous surveillance is necessary for high confidence in end-of-		 outbreak declarations for Ebola and other infectious diseases
+BERT 	keywords:	 ['Ebola', 'virus', 'disease', 'End-of-outbreak', 'declarations', 'World', 'Health', 'Organization', 'Outbreak', 'forecasting', 'Surveillance']
+
+
+
+BOW 	paperid:	 340398
+BOW 	title:	 	Climate Change Influences the Japanese Cedar (Cryptomeria 				japonica) Pollen Count and Sensitization Rate in South Korea
+BOW 	keywords:	 []
+BOW 	paperid:	 396481
+BOW 	title:	 	Clustering Analysis To Explore Cohorts In Comorbid Patients
+BOW 	keywords:	 ['Clustering', 'Analysis', 'Comorbidities']
+BOW 	paperid:	 472340
+BOW 	title:	 	Exploratory study of factors associated with human 				brucellosis in mainland China based on time-series-cross-			section data from 2005 to 2016
+BOW 	keywords:	 []
+

@@ -1,0 +1,130 @@
+abstract_encoding_BERT_1
+abstract_encoding_BOW
+maintext_encoding_BERT_1
+maintext_encoding_BOW
+input 	itle:	 Geographical Distributions and Spatial Equilibrium in Historical Epidemics of the United States
+input 	keywords:	 ['epidemics', 'geographical', 'distribution', 'mathematical', 'model', 'equilibrium', 'United', 'States']
+SEARCH: searching...
+SEARCH: classifier: FASTAI
+SEARCH: text type: ABSTRACT
+SEARCH: enc field: abstract_encoding01
+DOC COMPARE comparing 22680 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 22680 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe9ba6d30>
+SEARCH: conversion complete 0 / 4
+generating results...
+ULMFIT 	paperid:	 284380
+ULMFIT 	itle:	 The infection dynamics of vertically transmitted viruses in a two-population model
+ULMFIT 	keywords:	 ['host-parasite', 'interaction', 'theory', 'vertical', 'transmission', 'migration', 'mathematical', 'modelling', 'bistability', 'Drosophila', 'sigma', 'virus', 'geographic', 'mosaic']
+ULMFIT 	paperid:	 108589
+ULMFIT 	itle:	 Can Ebola Virus evolve to be less virulent in humans?
+ULMFIT 	keywords:	 ['case', 'fatality', 'ratio', 'virulence', 'EBOV', 'transmission', 'evolutionary', 'epidemiology', 'public', 'health', 'trade-offs', 'outbreak', 'adaptation']
+ULMFIT 	paperid:	 148619
+ULMFIT 	itle:	 Some empirical arguments demonstrating that the latent period varies over the course of a plant disease epidemic
+ULMFIT 	keywords:	 ['latent', 'period', 'mathematical', 'modeling', 'plant', 'disease', 'epidemiology', 'Zymoseptoria', 'tritici']
+SEARCH: searching...
+SEARCH: classifier: BERT
+SEARCH: text type: ABSTRACT
+SEARCH: enc field: abstract_encoding_BERT_1
+DOC COMPARE comparing 22415 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 22415 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe9ba6d30>
+SEARCH: conversion complete 0 / 4
+generating results...
+BERT 	paperid:	 265942
+BERT 	itle:	 Downgrading disease transmission risk estimates using terminal importations
+BERT 	keywords:	 []
+BERT 	paperid:	 468629
+BERT 	itle:	 Eliminating yellow fever epidemics in Africa: vaccine demand forecast and impact modelling
+BERT 	keywords:	 []
+BERT 	paperid:	 485821
+BERT 	itle:	 Rigorous surveillance is necessary for high confidence in end-of-outbreak declarations for Ebola and other infectious diseases
+BERT 	keywords:	 ['Ebola', 'virus', 'disease', 'End-of-outbreak', 'declarations', 'World', 'Health', 'Organization', 'Outbreak', 'forecasting', 'Surveillance']
+SEARCH: searching...
+SEARCH: classifier: BAGOFWORD
+SEARCH: text type: ABSTRACT
+SEARCH: enc field: abstract_encoding_BOW
+DOC COMPARE comparing 22680 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 22680 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe9ba6d30>
+SEARCH: conversion complete 0 / 4
+generating results...
+BOW 	paperid:	 340398
+BOW 	itle:	 Climate Change Influences the Japanese Cedar (Cryptomeria japonica) Pollen Count and Sensitization Rate in South Korea
+BOW 	keywords:	 []
+BOW 	paperid:	 396481
+BOW 	itle:	 Clustering Analysis To Explore Cohorts In Comorbid Patients
+BOW 	keywords:	 ['Clustering', 'Analysis', 'Comorbidities']
+BOW 	paperid:	 472340
+BOW 	itle:	 Exploratory study of factors associated with human brucellosis in mainland China based on time-series-cross-section data from 2005 to 2016
+BOW 	keywords:	 []
+input 	itle:	 Geographical Distributions and Spatial Equilibrium in Historical Epidemics of the United States
+input 	keywords:	 ['epidemics', 'geographical', 'distribution', 'mathematical', 'model', 'equilibrium', 'United', 'States']
+SEARCH: searching...
+SEARCH: classifier: FASTAI
+SEARCH: text type: MAINTEXT
+SEARCH: enc field: maintext_encoding01
+DOC COMPARE comparing 12311 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 12311 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe98c7b38>
+SEARCH: conversion complete 0 / 4
+generating results...
+ULMFIT 	paperid:	 148619
+ULMFIT 	itle:	 Some empirical arguments demonstrating that the latent period varies over the course of a plant disease epidemic
+ULMFIT 	keywords:	 ['latent', 'period', 'mathematical', 'modeling', 'plant', 'disease', 'epidemiology', 'Zymoseptoria', 'tritici']
+ULMFIT 	paperid:	 472365
+ULMFIT 	itle:	 Endoparasites and vector-borne pathogens in dogs from Greek islands: pathogen distribution and zoonotic implications
+ULMFIT 	keywords:	 ['Dog', 'Greece', 'Helminths', 'Vector-borne', 'diseases', 'Zoonoses']
+ULMFIT 	paperid:	 172221
+ULMFIT 	itle:	 Global expansion and redistribution of Aedes-borne virus transmission risk with climate change
+ULMFIT 	keywords:	 []
+SEARCH: searching...
+SEARCH: classifier: BERT
+SEARCH: text type: MAINTEXT
+SEARCH: enc field: maintext_encoding_BERT_1
+DOC COMPARE comparing 11400 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 11400 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe98c7b38>
+SEARCH: conversion complete 0 / 4
+generating results...
+BERT 	paperid:	 343947
+BERT 	itle:	 The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of Drosophila melanogaster
+BERT 	keywords:	 ['life', 'history', 'heritability', 'genotype', 'environment', 'interaction', 'Drosophila', 'melanogaster', 'multiparental', 'population']
+BERT 	paperid:	 230045
+BERT 	itle:	 Farm productive realities and the dynamics of bovine viral diarrhea (BVD) transmission
+BERT 	keywords:	 ['BVD', 'cattle', 'trade', 'movements', 'metapopulation', 'model', 'productive', 'classes', 'targeted', 'intervention']
+BERT 	paperid:	 231134
+BERT 	itle:	 Efficacy of Aedes aegypti control by indoor Ultra Low Volume (ULV) insecticide spraying in Iquitos, Peru
+BERT 	keywords:	 []
+SEARCH: searching...
+SEARCH: classifier: BAGOFWORD
+SEARCH: text type: MAINTEXT
+SEARCH: enc field: maintext_encoding_BOW
+DOC COMPARE comparing 22680 docs
+DOC COMPARE complete
+SEARCH: search complete, returning 22680 results
+SEARCH: converting 4 results to documents
+<search_document.SearchDocMongo object at 0x7fbbe98c7b38>
+SEARCH: conversion complete 0 / 4
+generating results...
+BOW 	paperid:	 252783
+BOW 	itle:	 Guiding Vaccine Efficacy Trial Design During Public Health Emergencies: An interactive web-based decision support tool
+BOW 	keywords:	 ['disaster', 'response', 'Public', 'Health', 'Emergency', 'emerging', 'infectious', 'diseases', 'scientific', 'communication', 'Phase', 'III', 'trial', 'decision', 'support', 'system', 'vaccine', 'trial', 'design']
+BOW 	paperid:	 414557
+BOW 	itle:	 Overestimation of the prevalence of eosinophilic colitis with reliance on a single billing code
+BOW 	keywords:	 []
+BOW 	paperid:	 198051
+BOW 	itle:	 Simulations for Designing and Interpreting Intervention Trials in Infectious Diseases
+BOW 	keywords:	 ['clinical', 'trial', 'design', 'infectious', 'diseases', 'simulations', 'vaccine', 'Designing', 'intervention', 'trials', 'infectious', 'diseases', 'poses', 'many', 'challenges', 'First', 'many', 'infectious', 'diseases', 'interventions', 'indirect', 'effects', 'individuals', 'receiving']
+
+

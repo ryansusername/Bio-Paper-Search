@@ -1,0 +1,1002 @@
+input_doc	distance	class	class_match	keyword_match	ref_match
+epidemiology	0.0	epidemiology	1	8	1
+epidemiology	0.003924112502150634	epidemiology	1	1	0
+epidemiology	0.008907219293930235	epidemiology	1	0	0
+epidemiology	0.012920642788104675	ecology	0	0	0
+epidemiology	0.01475798444669707	epidemiology	1	0	0
+epidemiology	0.015502194905219091	epidemiology	1	1	0
+epidemiology	0.019425066336676733	epidemiology	1	0	0
+epidemiology	0.019642315348475825	epidemiology	1	0	0
+epidemiology	0.02103325870224315	epidemiology	1	1	0
+epidemiology	0.022247523419264947	epidemiology	1	0	0
+epidemiology	0.02695172331011464	epidemiology	1	0	0
+epidemiology	0.027332737474573876	epidemiology	1	0	0
+epidemiology	0.027350525956401417	pharmacology and toxicology	0	0	0
+epidemiology	0.02767773511110272	epidemiology	1	0	0
+epidemiology	0.030988626245774697	epidemiology	1	0	0
+epidemiology	0.03270555503398087	animal behavior and cognition	0	0	0
+epidemiology	0.03388286173077604	epidemiology	1	0	0
+epidemiology	0.03502211789072218	zoology	0	0	0
+epidemiology	0.036216508874233444	epidemiology	1	0	0
+epidemiology	0.03720796657844405	evolutionary biology	0	0	0
+epidemiology	0.03963399145197999	epidemiology	1	0	0
+epidemiology	0.040069637535730895	epidemiology	1	0	0
+epidemiology	0.04071125148643073	epidemiology	1	0	0
+epidemiology	0.043001954092029004	physiology	0	0	0
+epidemiology	0.043004899715330835	epidemiology	1	0	0
+epidemiology	0.04429446970175166	epidemiology	1	1	0
+epidemiology	0.04547447246541547	epidemiology	1	0	0
+epidemiology	0.04693704042769109	animal behavior and cognition	0	0	0
+epidemiology	0.04729632883115287	pharmacology and toxicology	0	0	0
+epidemiology	0.04782002524404816	scientific communication and education	0	0	0
+epidemiology	0.0485387822745913	scientific communication and education	0	0	0
+epidemiology	0.04870468649113335	epidemiology	1	0	0
+epidemiology	0.04910928949598792	epidemiology	1	0	0
+epidemiology	0.05040944379154777	scientific communication and education	0	0	0
+epidemiology	0.05198137260025415	epidemiology	1	0	0
+epidemiology	0.05264522117775916	epidemiology	1	1	0
+epidemiology	0.05363049193264113	epidemiology	1	0	0
+epidemiology	0.05372650633969289	epidemiology	1	0	0
+epidemiology	0.05397886855520018	genetics	0	0	0
+epidemiology	0.05526104676790311	epidemiology	1	0	0
+epidemiology	0.05707208201106273	epidemiology	1	0	0
+epidemiology	0.05823224466636934	epidemiology	1	0	0
+epidemiology	0.059061017372996516	physiology	0	0	0
+epidemiology	0.05918282440611844	epidemiology	1	0	0
+epidemiology	0.05964886027409089	epidemiology	1	0	0
+epidemiology	0.059698862783561735	epidemiology	1	0	0
+epidemiology	0.05988281025989706	bioinformatics	0	1	0
+epidemiology	0.059995807079610275	epidemiology	1	0	0
+epidemiology	0.060160089328348154	epidemiology	1	0	0
+epidemiology	0.06055136939807382	epidemiology	1	0	0
+epidemiology	0.06078598128456858	epidemiology	1	0	0
+epidemiology	0.06115658222943299	epidemiology	1	0	0
+epidemiology	0.06230933292694396	epidemiology	1	0	0
+epidemiology	0.0624130596998278	epidemiology	1	0	0
+epidemiology	0.0626452943371365	epidemiology	1	0	0
+epidemiology	0.06264846781201516	epidemiology	1	0	0
+epidemiology	0.06276411002666016	animal behavior and cognition	0	0	0
+epidemiology	0.06333269007107989	scientific communication and education	0	0	0
+epidemiology	0.06341306372163436	epidemiology	1	0	0
+epidemiology	0.06372979686540658	epidemiology	1	0	0
+epidemiology	0.06457591408907537	scientific communication and education	0	0	0
+epidemiology	0.06511094728760558	epidemiology	1	0	0
+epidemiology	0.06524928396337548	developmental biology	0	0	0
+epidemiology	0.06527971357596829	epidemiology	1	0	0
+epidemiology	0.06530131834783182	epidemiology	1	0	0
+epidemiology	0.06556103955535231	epidemiology	1	0	0
+epidemiology	0.06693981887517653	epidemiology	1	2	0
+epidemiology	0.06709569796014814	epidemiology	1	0	0
+epidemiology	0.06742996140217616	epidemiology	1	0	0
+epidemiology	0.06835542622122848	epidemiology	1	0	0
+epidemiology	0.06887053896421591	epidemiology	1	0	0
+epidemiology	0.06888853356634128	epidemiology	1	0	0
+epidemiology	0.06937350545714371	scientific communication and education	0	0	0
+epidemiology	0.06965574348773385	animal behavior and cognition	0	0	0
+epidemiology	0.06969705493866818	genetics	0	0	0
+epidemiology	0.07067556295047839	genetics	0	0	0
+epidemiology	0.07086952959010018	epidemiology	1	0	0
+epidemiology	0.07134187011016702	ecology	0	0	0
+epidemiology	0.07226845191399456	epidemiology	1	0	0
+epidemiology	0.07260956114996386	epidemiology	1	0	0
+epidemiology	0.07265963312469437	epidemiology	1	0	0
+epidemiology	0.0727931614368631	epidemiology	1	0	0
+epidemiology	0.07289546221751964	epidemiology	1	0	0
+epidemiology	0.07373031759831417	epidemiology	1	0	0
+epidemiology	0.07414338536833742	epidemiology	1	0	0
+epidemiology	0.0747493111248857	epidemiology	1	0	0
+epidemiology	0.07496114618567973	epidemiology	1	0	0
+epidemiology	0.07725366414859636	epidemiology	1	0	0
+epidemiology	0.07760214403588184	epidemiology	1	0	0
+epidemiology	0.07933956171789602	epidemiology	1	0	0
+epidemiology	0.07949504520905326	epidemiology	1	0	0
+epidemiology	0.07971166734216883	epidemiology	1	0	0
+epidemiology	0.07979918488244642	ecology	0	0	0
+epidemiology	0.07999864276101931	epidemiology	1	0	0
+epidemiology	0.08049407971114475	epidemiology	1	0	0
+epidemiology	0.08088677855598403	epidemiology	1	0	0
+epidemiology	0.08112158695669358	epidemiology	1	0	0
+epidemiology	0.0819284233988854	epidemiology	1	0	0
+epidemiology	0.08214656827073252	epidemiology	1	0	0
+epidemiology	0.08223477139844626	epidemiology	1	0	0
+epidemiology	0.08245484733558273	immunology	0	0	0
+epidemiology	0.08397137651502273	epidemiology	1	0	0
+epidemiology	0.08401621860784025	physiology	0	0	0
+epidemiology	0.08418104792568715	epidemiology	1	0	0
+epidemiology	0.08518638980780247	epidemiology	1	0	0
+epidemiology	0.08536995737214192	epidemiology	1	0	0
+epidemiology	0.08597101713349853	epidemiology	1	0	0
+epidemiology	0.08603290617701143	epidemiology	1	0	0
+epidemiology	0.08722683115682495	epidemiology	1	0	0
+epidemiology	0.08744927782579592	epidemiology	1	0	0
+epidemiology	0.08753086079847461	epidemiology	1	0	0
+epidemiology	0.08768332927976163	genetics	0	0	0
+epidemiology	0.08772669734456306	epidemiology	1	0	0
+epidemiology	0.08830674528253013	epidemiology	1	0	0
+epidemiology	0.08894441525080266	epidemiology	1	0	0
+epidemiology	0.08924952470365699	epidemiology	1	0	0
+epidemiology	0.08934907891584165	epidemiology	1	0	0
+epidemiology	0.08935925558489932	epidemiology	1	0	0
+epidemiology	0.08942156596568018	epidemiology	1	0	0
+epidemiology	0.09002352658167789	epidemiology	1	0	0
+epidemiology	0.0903661345922212	epidemiology	1	0	0
+epidemiology	0.09061628873469674	ecology	0	0	0
+epidemiology	0.09092598009040864	epidemiology	1	0	0
+epidemiology	0.09145337626518057	epidemiology	1	0	0
+epidemiology	0.09163330785631163	epidemiology	1	0	0
+epidemiology	0.09167770215142201	epidemiology	1	0	0
+epidemiology	0.09180185285709208	epidemiology	1	0	0
+epidemiology	0.0920145187134842	epidemiology	1	1	0
+epidemiology	0.09207356273623901	epidemiology	1	0	0
+epidemiology	0.09249255626507236	epidemiology	1	0	0
+epidemiology	0.09313116976060143	physiology	0	0	0
+epidemiology	0.09361426735785938	epidemiology	1	0	0
+epidemiology	0.09387672304493455	epidemiology	1	0	0
+epidemiology	0.0940933966838976	epidemiology	1	0	0
+epidemiology	0.09416590296888938	epidemiology	1	0	0
+epidemiology	0.09502311781065842	epidemiology	1	0	0
+epidemiology	0.09524352534866054	scientific communication and education	0	0	0
+epidemiology	0.09556197798031829	epidemiology	1	0	0
+epidemiology	0.09560432005991548	epidemiology	1	0	0
+epidemiology	0.09560646710474863	animal behavior and cognition	0	0	0
+epidemiology	0.09577227933939603	epidemiology	1	0	0
+epidemiology	0.09607133833661785	epidemiology	1	0	0
+epidemiology	0.09681383242888375	bioengineering	0	0	0
+epidemiology	0.09726655667049933	epidemiology	1	0	0
+epidemiology	0.09734560781486024	epidemiology	1	0	0
+epidemiology	0.09796096051939496	epidemiology	1	0	0
+epidemiology	0.09801356846268594	scientific communication and education	0	0	0
+epidemiology	0.0985690299368076	epidemiology	1	0	0
+epidemiology	0.09876409324527458	epidemiology	1	0	0
+epidemiology	0.09895344622604207	epidemiology	1	0	0
+epidemiology	0.09915811676387054	epidemiology	1	0	0
+epidemiology	0.09928735766210517	epidemiology	1	0	0
+epidemiology	0.09973248820607916	epidemiology	1	0	0
+epidemiology	0.0997533154206357	physiology	0	0	0
+epidemiology	0.09978639235166298	epidemiology	1	1	0
+epidemiology	0.10042808834810313	scientific communication and education	0	0	0
+epidemiology	0.10058499607532634	epidemiology	1	0	0
+epidemiology	0.10062103649597332	epidemiology	1	0	0
+epidemiology	0.10067479127899015	epidemiology	1	0	0
+epidemiology	0.10084838552898989	epidemiology	1	0	0
+epidemiology	0.10134438555379144	epidemiology	1	0	0
+epidemiology	0.10135522528339325	epidemiology	1	1	0
+epidemiology	0.10135669762615995	epidemiology	1	1	0
+epidemiology	0.10164811968011123	epidemiology	1	0	0
+epidemiology	0.10191683789984118	epidemiology	1	0	0
+epidemiology	0.10261285031281919	epidemiology	1	0	0
+epidemiology	0.10267249400429246	epidemiology	1	0	0
+epidemiology	0.10313622032804415	ecology	0	0	0
+epidemiology	0.10347135440666477	epidemiology	1	0	0
+epidemiology	0.1036700819363866	scientific communication and education	0	0	0
+epidemiology	0.10367604678305076	epidemiology	1	0	0
+epidemiology	0.10367922039933442	epidemiology	1	0	0
+epidemiology	0.1037399446601368	epidemiology	1	0	0
+epidemiology	0.10431970538572832	epidemiology	1	0	0
+epidemiology	0.10438824933491964	epidemiology	1	0	0
+epidemiology	0.10500169299443984	physiology	0	0	0
+epidemiology	0.10513871823351095	physiology	0	0	0
+epidemiology	0.10517175176105042	epidemiology	1	0	0
+epidemiology	0.10526333470876803	epidemiology	1	0	0
+epidemiology	0.10531249730219083	epidemiology	1	0	0
+epidemiology	0.10571512107106595	scientific communication and education	0	0	0
+epidemiology	0.1058334435540117	epidemiology	1	0	0
+epidemiology	0.10641625628900275	epidemiology	1	0	0
+epidemiology	0.10649647752121616	epidemiology	1	0	0
+epidemiology	0.10689083770546626	animal behavior and cognition	0	0	0
+epidemiology	0.10702815513086728	epidemiology	1	0	0
+epidemiology	0.10803705255401352	epidemiology	1	0	0
+epidemiology	0.10910377036687358	epidemiology	1	0	0
+epidemiology	0.10911886128291448	physiology	0	0	0
+epidemiology	0.10920747119364016	epidemiology	1	0	0
+epidemiology	0.10921436351976521	epidemiology	1	0	0
+epidemiology	0.1099407691364257	epidemiology	1	0	0
+epidemiology	0.11035068514004309	epidemiology	1	0	0
+epidemiology	0.11038003338982738	epidemiology	1	0	0
+epidemiology	0.11053615155484575	scientific communication and education	0	0	0
+epidemiology	0.11067696378784697	epidemiology	1	0	0
+epidemiology	0.11138172843227678	scientific communication and education	0	0	0
+epidemiology	0.1116494738593301	epidemiology	1	0	0
+epidemiology	0.1117129210563994	epidemiology	1	0	0
+epidemiology	0.11198226794511068	epidemiology	1	0	0
+epidemiology	0.11217486906446805	epidemiology	1	0	0
+epidemiology	0.11300600178059361	scientific communication and education	0	0	0
+epidemiology	0.11311774387435691	epidemiology	1	0	0
+epidemiology	0.11330636256569604	epidemiology	1	0	0
+epidemiology	0.11337534234444491	epidemiology	1	0	0
+epidemiology	0.11372419977614623	epidemiology	1	0	0
+epidemiology	0.11414914283457323	epidemiology	1	0	0
+epidemiology	0.11433289482230524	epidemiology	1	0	0
+epidemiology	0.11448987643384911	epidemiology	1	0	0
+epidemiology	0.11463633882296997	epidemiology	1	0	0
+epidemiology	0.1148241492368931	clinical trials	0	0	0
+epidemiology	0.11564557713289669	epidemiology	1	1	0
+epidemiology	0.11568170246701404	epidemiology	1	0	0
+epidemiology	0.11577748467849136	epidemiology	1	0	0
+epidemiology	0.11594232930026571	epidemiology	1	0	0
+epidemiology	0.11612541475348548	epidemiology	1	0	0
+epidemiology	0.11614148933709723	epidemiology	1	0	0
+epidemiology	0.11614793706664961	epidemiology	1	0	0
+epidemiology	0.11688201740911996	epidemiology	1	0	0
+epidemiology	0.11701213599620841	epidemiology	1	0	0
+epidemiology	0.11744354550588665	pharmacology and toxicology	0	0	0
+epidemiology	0.11791050165090344	epidemiology	1	0	0
+epidemiology	0.1179571274647434	epidemiology	1	0	0
+epidemiology	0.1182632180310228	epidemiology	1	0	0
+epidemiology	0.11883338199886906	epidemiology	1	0	0
+epidemiology	0.1195238942833956	animal behavior and cognition	0	0	0
+epidemiology	0.11952931762983354	epidemiology	1	0	0
+epidemiology	0.12038249600421058	epidemiology	1	0	0
+epidemiology	0.1203876803998678	epidemiology	1	0	0
+epidemiology	0.12055339729033554	systems biology	0	0	0
+epidemiology	0.12069778555609845	epidemiology	1	0	0
+epidemiology	0.12122034543862603	epidemiology	1	0	0
+epidemiology	0.12154708921051738	epidemiology	1	0	0
+epidemiology	0.12165893619130896	epidemiology	1	0	0
+epidemiology	0.12221681565188891	epidemiology	1	0	0
+epidemiology	0.12226217929974037	physiology	0	0	0
+epidemiology	0.12242853244285556	epidemiology	1	0	0
+epidemiology	0.12260832587972381	epidemiology	1	0	0
+epidemiology	0.12289034809711574	epidemiology	1	0	0
+epidemiology	0.12325020198283576	epidemiology	1	0	0
+epidemiology	0.12341887929159534	epidemiology	1	0	0
+epidemiology	0.12363340117817911	scientific communication and education	0	0	0
+epidemiology	0.12392016773786751	epidemiology	1	0	0
+epidemiology	0.12421745692420527	epidemiology	1	0	0
+epidemiology	0.12434369185243122	epidemiology	1	0	0
+epidemiology	0.124569033491156	epidemiology	1	0	0
+epidemiology	0.12465337992749248	epidemiology	1	0	0
+epidemiology	0.12474104078918391	epidemiology	1	0	0
+epidemiology	0.12540979343925274	epidemiology	1	0	0
+epidemiology	0.12541122118708392	epidemiology	1	0	0
+epidemiology	0.12558280619502915	epidemiology	1	0	0
+epidemiology	0.1256354508569858	epidemiology	1	0	0
+epidemiology	0.12575407268422067	epidemiology	1	0	0
+epidemiology	0.1260440371404885	systems biology	0	0	0
+epidemiology	0.12616542291938881	clinical trials	0	0	0
+epidemiology	0.12729648029935836	ecology	0	0	0
+epidemiology	0.1275768629317281	epidemiology	1	0	0
+epidemiology	0.12844764602245762	epidemiology	1	0	0
+epidemiology	0.1286346672419939	molecular biology	0	0	0
+epidemiology	0.1287701621665065	clinical trials	0	0	0
+epidemiology	0.12902367747587629	epidemiology	1	0	0
+epidemiology	0.1291252686574248	epidemiology	1	0	0
+epidemiology	0.1292897473092276	epidemiology	1	0	0
+epidemiology	0.13046782059909257	epidemiology	1	0	0
+epidemiology	0.13069822595673464	animal behavior and cognition	0	0	0
+epidemiology	0.13088819054723655	epidemiology	1	0	0
+epidemiology	0.13092072933455468	epidemiology	1	0	0
+epidemiology	0.13169148994849333	epidemiology	1	0	0
+epidemiology	0.1318905593548868	epidemiology	1	0	0
+epidemiology	0.13193339754401956	epidemiology	1	0	0
+epidemiology	0.13266769087816876	epidemiology	1	0	0
+epidemiology	0.13296644739842178	epidemiology	1	0	0
+epidemiology	0.13301433130805096	epidemiology	1	0	0
+epidemiology	0.13329847220623547	epidemiology	1	0	0
+epidemiology	0.1338899381998946	epidemiology	1	0	0
+epidemiology	0.1339926758501493	animal behavior and cognition	0	0	0
+epidemiology	0.13416710331057946	epidemiology	1	0	0
+epidemiology	0.13435101000880123	epidemiology	1	0	0
+epidemiology	0.13444557503445786	epidemiology	1	0	0
+epidemiology	0.13444857319781567	epidemiology	1	0	0
+epidemiology	0.13445909368775966	microbiology	0	0	0
+epidemiology	0.13455618698327887	epidemiology	1	0	0
+epidemiology	0.1354490483828874	epidemiology	1	0	0
+epidemiology	0.13564300224013137	animal behavior and cognition	0	0	0
+epidemiology	0.13577953620688898	clinical trials	0	0	0
+epidemiology	0.13639440779623135	epidemiology	1	0	0
+epidemiology	0.13640516473250874	physiology	0	0	0
+epidemiology	0.13643116974602043	epidemiology	1	0	0
+epidemiology	0.13648961697521989	epidemiology	1	0	0
+epidemiology	0.1366261757436149	epidemiology	1	0	0
+epidemiology	0.1368327432522114	epidemiology	1	0	0
+epidemiology	0.1369102799055053	epidemiology	1	0	0
+epidemiology	0.13692353529814372	epidemiology	1	0	0
+epidemiology	0.13702461059641657	epidemiology	1	0	0
+epidemiology	0.13712642482200543	epidemiology	1	0	0
+epidemiology	0.13757649044104459	epidemiology	1	0	0
+epidemiology	0.13760573561427403	epidemiology	1	0	0
+epidemiology	0.13788971982508025	epidemiology	1	0	0
+epidemiology	0.1379714350363903	evolutionary biology	0	0	0
+epidemiology	0.1381134392656791	epidemiology	1	0	0
+epidemiology	0.13825595419621106	epidemiology	1	0	0
+epidemiology	0.1384116241854615	systems biology	0	0	0
+epidemiology	0.13911790763555887	epidemiology	1	0	0
+epidemiology	0.13919326825356904	epidemiology	1	0	0
+epidemiology	0.13923842368787354	epidemiology	1	0	0
+epidemiology	0.1393787071219258	epidemiology	1	0	0
+epidemiology	0.13946000242203405	epidemiology	1	0	0
+epidemiology	0.13969396532490985	epidemiology	1	0	0
+epidemiology	0.14006545027177786	genetics	0	0	0
+epidemiology	0.14020701274637415	epidemiology	1	0	0
+epidemiology	0.14021342982341944	epidemiology	1	0	0
+epidemiology	0.14025081668455663	epidemiology	1	0	0
+epidemiology	0.14051127356747772	epidemiology	1	0	0
+epidemiology	0.1407828125594458	epidemiology	1	0	0
+epidemiology	0.14085882458066856	epidemiology	1	0	0
+epidemiology	0.14094847550990197	epidemiology	1	0	0
+epidemiology	0.1413116730664573	ecology	0	0	0
+epidemiology	0.14148639250027228	epidemiology	1	0	0
+epidemiology	0.14194726248137246	epidemiology	1	0	0
+epidemiology	0.1420328178108181	molecular biology	0	0	0
+epidemiology	0.14207962290960197	epidemiology	1	0	0
+epidemiology	0.14213002616978632	epidemiology	1	0	0
+epidemiology	0.14216802820846286	epidemiology	1	0	0
+epidemiology	0.14258031126407278	epidemiology	1	0	0
+epidemiology	0.14271154533699815	epidemiology	1	0	0
+epidemiology	0.14275118770016948	epidemiology	1	0	0
+epidemiology	0.1429416557946669	epidemiology	1	0	0
+epidemiology	0.1432067730931127	epidemiology	1	0	0
+epidemiology	0.14339528005973023	epidemiology	1	0	0
+epidemiology	0.1434643212712935	epidemiology	1	0	0
+epidemiology	0.14370070758775555	epidemiology	1	0	0
+epidemiology	0.14385025555014708	scientific communication and education	0	0	0
+epidemiology	0.14438455494501534	epidemiology	1	0	0
+epidemiology	0.1444306302122702	epidemiology	1	0	0
+epidemiology	0.14482191667528865	bioengineering	0	0	0
+epidemiology	0.1448929800664308	epidemiology	1	0	0
+epidemiology	0.14564579190363047	epidemiology	1	0	0
+epidemiology	0.14579939919943563	genetics	0	0	0
+epidemiology	0.14600708456705103	epidemiology	1	0	0
+epidemiology	0.14608291133957163	genetics	0	0	0
+epidemiology	0.14667890145104334	neuroscience	0	0	0
+epidemiology	0.14760372773660912	epidemiology	1	0	0
+epidemiology	0.14767370148494852	scientific communication and education	0	0	0
+epidemiology	0.14773353893892582	epidemiology	1	0	0
+epidemiology	0.14793040313802752	epidemiology	1	0	0
+epidemiology	0.14814013042549823	genomics	0	0	0
+epidemiology	0.14820877656915465	epidemiology	1	0	0
+epidemiology	0.14853083117613997	evolutionary biology	0	0	0
+epidemiology	0.14861941605699247	epidemiology	1	0	0
+epidemiology	0.14892568172944964	epidemiology	1	2	0
+epidemiology	0.14917343767807345	epidemiology	1	0	0
+epidemiology	0.1496062543855431	genetics	0	0	0
+epidemiology	0.14998872805579944	epidemiology	1	0	0
+epidemiology	0.1504996805044273	epidemiology	1	0	0
+epidemiology	0.1505223866543144	scientific communication and education	0	0	0
+epidemiology	0.15089379157113814	epidemiology	1	0	0
+epidemiology	0.15101197046814585	epidemiology	1	0	0
+epidemiology	0.15107425394198493	epidemiology	1	0	0
+epidemiology	0.15123595062566886	epidemiology	1	0	0
+epidemiology	0.1515148062566033	ecology	0	0	0
+epidemiology	0.15172889746675422	epidemiology	1	0	0
+epidemiology	0.1517656086154403	epidemiology	1	0	0
+epidemiology	0.15206886186452906	epidemiology	1	0	0
+epidemiology	0.1523177308012762	epidemiology	1	0	0
+epidemiology	0.15257156563395113	epidemiology	1	0	0
+epidemiology	0.15271337012925312	epidemiology	1	0	0
+epidemiology	0.1528723083117206	epidemiology	1	0	0
+epidemiology	0.1530578176997498	animal behavior and cognition	0	0	0
+epidemiology	0.15313454891651923	genetics	0	0	0
+epidemiology	0.1535198685182848	epidemiology	1	0	0
+epidemiology	0.15355002685186792	epidemiology	1	0	0
+epidemiology	0.15364700450763336	epidemiology	1	0	0
+epidemiology	0.15442592981681091	epidemiology	1	1	0
+epidemiology	0.15455716052140933	epidemiology	1	0	0
+epidemiology	0.15463238797719403	epidemiology	1	0	0
+epidemiology	0.15499939571732568	epidemiology	1	0	0
+epidemiology	0.15501812476473698	epidemiology	1	0	0
+epidemiology	0.15514142793347263	epidemiology	1	0	0
+epidemiology	0.1555367578736938	epidemiology	1	0	0
+epidemiology	0.15560240873979492	epidemiology	1	0	0
+epidemiology	0.15567938278593318	clinical trials	0	0	0
+epidemiology	0.1566061122942728	animal behavior and cognition	0	0	0
+epidemiology	0.15669855838843172	epidemiology	1	0	0
+epidemiology	0.1568634957774505	epidemiology	1	0	0
+epidemiology	0.1573282948854171	epidemiology	1	0	0
+epidemiology	0.15750527681276238	developmental biology	0	0	0
+epidemiology	0.15785667409957282	epidemiology	1	0	0
+epidemiology	0.15812745931069438	epidemiology	1	0	0
+epidemiology	0.1581765652164545	epidemiology	1	0	0
+epidemiology	0.15818771590169778	epidemiology	1	0	0
+epidemiology	0.15861153090343794	epidemiology	1	0	0
+epidemiology	0.15923189858068199	molecular biology	0	0	0
+epidemiology	0.15940348660755055	epidemiology	1	0	0
+epidemiology	0.1594638358431526	epidemiology	1	0	0
+epidemiology	0.15946826359808441	epidemiology	1	0	0
+epidemiology	0.1597003097420201	epidemiology	1	0	0
+epidemiology	0.15988515132260273	epidemiology	1	0	0
+epidemiology	0.1607564979717293	epidemiology	1	0	0
+epidemiology	0.1608411652808045	epidemiology	1	0	0
+epidemiology	0.1614215531687111	animal behavior and cognition	0	0	0
+epidemiology	0.1616813644730939	immunology	0	0	0
+epidemiology	0.16178204669593088	scientific communication and education	0	0	0
+epidemiology	0.16224419144419544	epidemiology	1	0	0
+epidemiology	0.16324434059735493	physiology	0	0	0
+epidemiology	0.16329493870152223	epidemiology	1	0	0
+epidemiology	0.16354862806401171	epidemiology	1	0	0
+epidemiology	0.16355614302670463	scientific communication and education	0	0	0
+epidemiology	0.1639500468791385	epidemiology	1	0	0
+epidemiology	0.16439793956370663	epidemiology	1	0	0
+epidemiology	0.16440312972566695	cancer biology	0	0	0
+epidemiology	0.16468053454026754	epidemiology	1	0	0
+epidemiology	0.16476267422244162	epidemiology	1	0	0
+epidemiology	0.16513849729732377	epidemiology	1	0	0
+epidemiology	0.16518974329702973	pathology	0	0	0
+epidemiology	0.1657812401224391	epidemiology	1	0	0
+epidemiology	0.16612030247728526	clinical trials	0	0	0
+epidemiology	0.16656005910534133	epidemiology	1	0	0
+epidemiology	0.16667056073205533	epidemiology	1	0	0
+epidemiology	0.16689123231502057	epidemiology	1	0	0
+epidemiology	0.16697406894051847	epidemiology	1	0	0
+epidemiology	0.1670285628984588	epidemiology	1	0	0
+epidemiology	0.16707591295453394	epidemiology	1	0	0
+epidemiology	0.1671498825697969	epidemiology	1	0	0
+epidemiology	0.16743482413520938	epidemiology	1	0	0
+epidemiology	0.16744961054656127	epidemiology	1	0	0
+epidemiology	0.16770250660577524	epidemiology	1	0	0
+epidemiology	0.1677859826824768	physiology	0	0	0
+epidemiology	0.16779424082728533	epidemiology	1	0	0
+epidemiology	0.167867778937696	epidemiology	1	0	0
+epidemiology	0.16831207090139844	epidemiology	1	0	0
+epidemiology	0.1686155577061641	epidemiology	1	0	0
+epidemiology	0.16878380420437322	epidemiology	1	0	0
+epidemiology	0.16881372712581777	epidemiology	1	0	0
+epidemiology	0.16887588640552142	epidemiology	1	0	0
+epidemiology	0.1690976550862564	epidemiology	1	0	0
+epidemiology	0.16930486672419598	scientific communication and education	0	0	0
+epidemiology	0.1694541686201788	epidemiology	1	1	0
+epidemiology	0.16962367704270986	pathology	0	0	0
+epidemiology	0.16986742753897477	epidemiology	1	0	0
+epidemiology	0.1703273079299792	epidemiology	1	0	0
+epidemiology	0.1708431212406304	epidemiology	1	0	0
+epidemiology	0.17095961066869292	epidemiology	1	0	0
+epidemiology	0.1710680567480134	epidemiology	1	0	0
+epidemiology	0.17143430660162062	epidemiology	1	0	0
+epidemiology	0.17216405998033724	epidemiology	1	0	0
+epidemiology	0.17246673053237227	epidemiology	1	0	0
+epidemiology	0.172773433827057	epidemiology	1	0	0
+epidemiology	0.17306254695178325	scientific communication and education	0	0	0
+epidemiology	0.1730640484147934	epidemiology	1	0	0
+epidemiology	0.17310638545056323	evolutionary biology	0	1	0
+epidemiology	0.17321542891024932	epidemiology	1	0	0
+epidemiology	0.17373012509637464	epidemiology	1	0	0
+epidemiology	0.17380358022418696	clinical trials	0	0	0
+epidemiology	0.17387479169019038	epidemiology	1	0	0
+epidemiology	0.17431641495171535	epidemiology	1	0	0
+epidemiology	0.1743584629489775	epidemiology	1	0	0
+epidemiology	0.1744410556594268	pathology	0	0	0
+epidemiology	0.17477748272777238	epidemiology	1	0	0
+epidemiology	0.17536583330214728	physiology	0	0	0
+epidemiology	0.17574279520604208	epidemiology	1	0	0
+epidemiology	0.17579719024387908	epidemiology	1	0	0
+epidemiology	0.1758579385721869	epidemiology	1	0	0
+epidemiology	0.1762025055224834	epidemiology	1	0	0
+epidemiology	0.1763136228520722	epidemiology	1	0	0
+epidemiology	0.17640711513990015	epidemiology	1	0	0
+epidemiology	0.17650320256386776	pharmacology and toxicology	0	0	0
+epidemiology	0.17663134209850406	epidemiology	1	0	0
+epidemiology	0.17677453240008612	epidemiology	1	0	0
+epidemiology	0.17696766937270925	epidemiology	1	2	0
+epidemiology	0.1773682921996843	epidemiology	1	0	0
+epidemiology	0.17742655825439013	epidemiology	1	0	0
+epidemiology	0.1778103263518972	epidemiology	1	0	0
+epidemiology	0.177900669153652	animal behavior and cognition	0	0	0
+epidemiology	0.17806471214652986	synthetic biology	0	1	0
+epidemiology	0.1781344727634988	pharmacology and toxicology	0	0	0
+epidemiology	0.1782933840715063	epidemiology	1	0	0
+epidemiology	0.17854770169348988	epidemiology	1	0	0
+epidemiology	0.17859266779099192	epidemiology	1	0	0
+epidemiology	0.1786605131083019	epidemiology	1	0	0
+epidemiology	0.1788055208583076	epidemiology	1	0	0
+epidemiology	0.1792229903515028	epidemiology	1	0	0
+epidemiology	0.17932370854404567	epidemiology	1	0	0
+epidemiology	0.17961163264361013	scientific communication and education	0	0	0
+epidemiology	0.17969865377780314	epidemiology	1	0	0
+epidemiology	0.17971796446987065	epidemiology	1	1	0
+epidemiology	0.17983317305124058	epidemiology	1	0	0
+epidemiology	0.18006482995769257	epidemiology	1	0	0
+epidemiology	0.18025229678011434	epidemiology	1	1	0
+epidemiology	0.1803521120630589	scientific communication and education	0	0	0
+epidemiology	0.1803650869386194	epidemiology	1	0	0
+epidemiology	0.18068176083184562	epidemiology	1	0	0
+epidemiology	0.18076704103675834	epidemiology	1	0	0
+epidemiology	0.1807977084352217	epidemiology	1	0	0
+epidemiology	0.18102500636164176	epidemiology	1	0	0
+epidemiology	0.18103266478840796	epidemiology	1	0	0
+epidemiology	0.18121339331900121	epidemiology	1	0	0
+epidemiology	0.18122312742375446	epidemiology	1	0	0
+epidemiology	0.1812268536442313	animal behavior and cognition	0	0	0
+epidemiology	0.1817265214169056	epidemiology	1	0	0
+epidemiology	0.18183108699667627	epidemiology	1	0	0
+epidemiology	0.18248659656383004	epidemiology	1	0	0
+epidemiology	0.18266319684231713	epidemiology	1	0	0
+epidemiology	0.1832535939193024	epidemiology	1	0	0
+epidemiology	0.18390978856908757	epidemiology	1	0	0
+epidemiology	0.18401490545604304	epidemiology	1	0	0
+epidemiology	0.18414309160693687	epidemiology	1	0	0
+epidemiology	0.18433829263394153	epidemiology	1	0	0
+epidemiology	0.18454598401165956	epidemiology	1	0	0
+epidemiology	0.1845732992548449	epidemiology	1	0	0
+epidemiology	0.1846024826123701	scientific communication and education	0	0	0
+epidemiology	0.18465790766799262	epidemiology	1	0	0
+epidemiology	0.18506865052456456	epidemiology	1	0	0
+epidemiology	0.18534053107120252	epidemiology	1	0	0
+epidemiology	0.18561151149075772	epidemiology	1	0	0
+epidemiology	0.18565102763674013	clinical trials	0	0	0
+epidemiology	0.18574634236436305	scientific communication and education	0	0	0
+epidemiology	0.18605519626107891	epidemiology	1	0	0
+epidemiology	0.186434893861392	epidemiology	1	0	0
+epidemiology	0.18647289976319004	epidemiology	1	0	0
+epidemiology	0.1866819639511763	physiology	0	0	0
+epidemiology	0.18680142121403498	bioengineering	0	0	0
+epidemiology	0.18725653328909309	scientific communication and education	0	0	0
+epidemiology	0.1872597046646074	epidemiology	1	0	0
+epidemiology	0.18737199652936876	physiology	0	0	0
+epidemiology	0.18749079586894957	epidemiology	1	0	0
+epidemiology	0.18749263642192748	epidemiology	1	0	0
+epidemiology	0.18752476991810574	epidemiology	1	0	0
+epidemiology	0.187590093904479	epidemiology	1	0	0
+epidemiology	0.18838667584697466	epidemiology	1	0	0
+epidemiology	0.18845824139991296	epidemiology	1	0	0
+epidemiology	0.18848758597712578	epidemiology	1	0	0
+epidemiology	0.18916222329250176	epidemiology	1	0	0
+epidemiology	0.18945821368335192	epidemiology	1	0	0
+epidemiology	0.1898333771705908	epidemiology	1	0	0
+epidemiology	0.18987485415812022	epidemiology	1	0	0
+epidemiology	0.1903529195400806	epidemiology	1	0	0
+epidemiology	0.19057074216939052	epidemiology	1	0	0
+epidemiology	0.190741736892325	epidemiology	1	0	0
+epidemiology	0.19081280912982468	epidemiology	1	0	0
+epidemiology	0.19140236271188327	epidemiology	1	2	0
+epidemiology	0.1916066285529353	epidemiology	1	0	0
+epidemiology	0.19168811726686985	epidemiology	1	0	0
+epidemiology	0.19194602289621276	epidemiology	1	0	0
+epidemiology	0.1922998419677523	epidemiology	1	0	0
+epidemiology	0.19246074066721408	epidemiology	1	0	0
+epidemiology	0.19269535405310245	epidemiology	1	0	0
+epidemiology	0.19272652258089296	epidemiology	1	0	0
+epidemiology	0.192945000458694	epidemiology	1	0	0
+epidemiology	0.19321429451893268	epidemiology	1	0	0
+epidemiology	0.19351134832203165	pathology	0	0	0
+epidemiology	0.19386648217361124	scientific communication and education	0	0	0
+epidemiology	0.1947796202089227	epidemiology	1	0	0
+epidemiology	0.19506845704607323	epidemiology	1	0	0
+epidemiology	0.19517727143124974	epidemiology	1	0	0
+epidemiology	0.19519953948265822	epidemiology	1	0	0
+epidemiology	0.19535503977457358	epidemiology	1	0	0
+epidemiology	0.19536292459546445	epidemiology	1	0	0
+epidemiology	0.19558406975694165	epidemiology	1	0	0
+epidemiology	0.19560060583142702	epidemiology	1	0	0
+epidemiology	0.19599428899481064	animal behavior and cognition	0	0	0
+epidemiology	0.19659805083694504	epidemiology	1	0	0
+epidemiology	0.19686567694695534	systems biology	0	0	0
+epidemiology	0.19768748052732832	epidemiology	1	0	0
+epidemiology	0.19810515445072752	genetics	0	0	0
+epidemiology	0.19835717271190734	epidemiology	1	0	0
+epidemiology	0.19857643008488768	animal behavior and cognition	0	0	0
+epidemiology	0.19889326550504516	epidemiology	1	0	0
+epidemiology	0.19916443300487519	scientific communication and education	0	0	0
+epidemiology	0.19924431141590593	epidemiology	1	0	0
+epidemiology	0.19927400827703623	clinical trials	0	0	0
+epidemiology	0.1998784487170182	epidemiology	1	0	0
+epidemiology	0.20031877574057566	epidemiology	1	0	0
+epidemiology	0.20067606501146473	epidemiology	1	0	0
+epidemiology	0.20107525728520226	epidemiology	1	1	0
+epidemiology	0.2012841893741838	animal behavior and cognition	0	0	0
+epidemiology	0.20178633601836393	molecular biology	0	0	0
+epidemiology	0.20202252229305928	genetics	0	0	0
+epidemiology	0.20282809806242807	animal behavior and cognition	0	0	0
+epidemiology	0.20326633137479733	epidemiology	1	1	0
+epidemiology	0.20428601768592902	epidemiology	1	0	0
+epidemiology	0.2053469990781428	epidemiology	1	0	0
+epidemiology	0.20548137206869355	animal behavior and cognition	0	0	0
+epidemiology	0.2063560363182525	genetics	0	0	0
+epidemiology	0.20637235814299193	genetics	0	0	0
+epidemiology	0.20726798554078907	epidemiology	1	0	0
+epidemiology	0.20802636076217496	epidemiology	1	0	0
+epidemiology	0.2084248661173037	epidemiology	1	0	0
+epidemiology	0.20922037529249116	animal behavior and cognition	0	0	0
+epidemiology	0.20940726152786038	scientific communication and education	0	0	0
+epidemiology	0.2096526024017762	epidemiology	1	0	0
+epidemiology	0.21012864277456778	animal behavior and cognition	0	0	0
+epidemiology	0.21030477460844166	epidemiology	1	0	0
+epidemiology	0.210477330935262	bioengineering	0	0	0
+epidemiology	0.21063494652145442	epidemiology	1	0	0
+epidemiology	0.21081359519213738	epidemiology	1	0	0
+epidemiology	0.2114926431722497	genetics	0	0	0
+epidemiology	0.21202449865642137	epidemiology	1	0	0
+epidemiology	0.2121853212055803	scientific communication and education	0	0	0
+epidemiology	0.21260908088147068	clinical trials	0	0	0
+epidemiology	0.21264704173804838	bioinformatics	0	0	0
+epidemiology	0.21268864666795761	epidemiology	1	0	0
+epidemiology	0.21327176432256512	epidemiology	1	0	0
+epidemiology	0.21408893621154512	animal behavior and cognition	0	0	0
+epidemiology	0.21440854118464525	scientific communication and education	0	0	0
+epidemiology	0.21451383596970242	scientific communication and education	0	0	0
+epidemiology	0.2149308467052351	scientific communication and education	0	0	0
+epidemiology	0.21555221691075965	scientific communication and education	0	0	0
+epidemiology	0.21577058623432555	plant biology	0	0	0
+epidemiology	0.21613431734107758	epidemiology	1	0	0
+epidemiology	0.21659757198330387	animal behavior and cognition	0	0	0
+epidemiology	0.21678568474607496	genetics	0	0	0
+epidemiology	0.2171210488871953	epidemiology	1	0	0
+epidemiology	0.2172881232638556	epidemiology	1	0	0
+epidemiology	0.2177963637366045	epidemiology	1	0	0
+epidemiology	0.21850948562793826	epidemiology	1	0	0
+epidemiology	0.21853669209190396	scientific communication and education	0	0	0
+epidemiology	0.21859279477634008	scientific communication and education	0	0	0
+epidemiology	0.21861327151532484	scientific communication and education	0	0	0
+epidemiology	0.21945944849790489	epidemiology	1	0	0
+epidemiology	0.2204424028843256	genetics	0	0	0
+epidemiology	0.22123100267959883	epidemiology	1	0	0
+epidemiology	0.2214761407214343	genomics	0	0	0
+epidemiology	0.2215713159194619	ecology	0	0	0
+epidemiology	0.22204733394056486	epidemiology	1	0	0
+epidemiology	0.22246562334520448	epidemiology	1	0	0
+epidemiology	0.22292415033639312	epidemiology	1	0	0
+epidemiology	0.2239561534611979	epidemiology	1	0	0
+epidemiology	0.22503515140334307	ecology	0	0	0
+epidemiology	0.22543977687718686	physiology	0	0	0
+epidemiology	0.22666913067946304	epidemiology	1	0	0
+epidemiology	0.22756769646383024	genetics	0	0	0
+epidemiology	0.2291674307113094	scientific communication and education	0	0	0
+epidemiology	0.23010628723938942	epidemiology	1	0	0
+epidemiology	0.2312402204605799	epidemiology	1	0	0
+epidemiology	0.23153041532174745	scientific communication and education	0	0	0
+epidemiology	0.232357300705876	epidemiology	1	0	0
+epidemiology	0.23319262730485124	ecology	0	0	0
+epidemiology	0.2386436339398883	animal behavior and cognition	0	0	0
+epidemiology	0.23892282957366873	animal behavior and cognition	0	0	0
+epidemiology	0.2389231241557499	scientific communication and education	0	0	0
+epidemiology	0.23976736220746764	immunology	0	0	0
+epidemiology	0.240380082703874	physiology	0	0	0
+epidemiology	0.2405964246366259	scientific communication and education	0	0	0
+epidemiology	0.24411052588522653	epidemiology	1	0	0
+epidemiology	0.24643287601795782	bioinformatics	0	0	0
+epidemiology	0.24723790374474308	animal behavior and cognition	0	0	0
+epidemiology	0.2477812433656148	developmental biology	0	0	0
+epidemiology	0.24793690951548353	animal behavior and cognition	0	0	0
+epidemiology	0.24850597880342473	ecology	0	0	0
+epidemiology	0.24920748670640003	animal behavior and cognition	0	0	0
+epidemiology	0.2493926434784104	epidemiology	1	0	0
+epidemiology	0.25471482570924875	animal behavior and cognition	0	0	0
+epidemiology	0.25488500858623364	epidemiology	1	0	0
+epidemiology	0.25510078915956413	epidemiology	1	0	0
+epidemiology	0.2552902213370932	epidemiology	1	0	0
+epidemiology	0.25669668643269383	animal behavior and cognition	0	0	0
+epidemiology	0.25683044911401887	epidemiology	1	0	0
+epidemiology	0.2572110573848574	epidemiology	1	1	0
+epidemiology	0.2575814450570897	bioinformatics	0	0	0
+epidemiology	0.2594121784148883	animal behavior and cognition	0	0	0
+epidemiology	0.26243901768449573	physiology	0	0	0
+epidemiology	0.26285103081342054	animal behavior and cognition	0	0	0
+epidemiology	0.26287818668047336	physiology	0	0	0
+epidemiology	0.26340876824468495	cancer biology	0	0	0
+epidemiology	0.26443646972186674	genetics	0	0	0
+epidemiology	0.2661494508445156	molecular biology	0	0	0
+epidemiology	0.2672961387380238	epidemiology	1	0	0
+epidemiology	0.26867711991997256	systems biology	0	0	0
+epidemiology	0.27007085205810333	animal behavior and cognition	0	0	0
+epidemiology	0.27043562005200383	genetics	0	0	0
+epidemiology	0.2709135936009006	scientific communication and education	0	0	0
+epidemiology	0.27154026326824765	animal behavior and cognition	0	0	0
+epidemiology	0.27190845462174407	epidemiology	1	0	0
+epidemiology	0.2742309144730398	scientific communication and education	0	0	0
+epidemiology	0.27584203010973496	genetics	0	0	0
+epidemiology	0.27646950837281536	genetics	0	0	0
+epidemiology	0.276478826534272	ecology	0	0	0
+epidemiology	0.28058865484406104	epidemiology	1	0	0
+epidemiology	0.28067090045320353	epidemiology	1	0	0
+epidemiology	0.28123468810192365	epidemiology	1	0	0
+epidemiology	0.28150857514292893	animal behavior and cognition	0	0	0
+epidemiology	0.28220011059550565	genomics	0	0	0
+epidemiology	0.2825736249110615	epidemiology	1	0	0
+epidemiology	0.2827305754175662	pathology	0	0	0
+epidemiology	0.28274670512371103	epidemiology	1	0	0
+epidemiology	0.28311715012118377	animal behavior and cognition	0	0	0
+epidemiology	0.2838054239433587	epidemiology	1	0	0
+epidemiology	0.2841250618415968	evolutionary biology	0	0	0
+epidemiology	0.28451694866132327	epidemiology	1	0	0
+epidemiology	0.28545970727362124	physiology	0	0	0
+epidemiology	0.28588081079808125	epidemiology	1	0	0
+epidemiology	0.2870969857165072	animal behavior and cognition	0	0	0
+epidemiology	0.2884028527293502	epidemiology	1	0	0
+epidemiology	0.2903649942735256	animal behavior and cognition	0	0	0
+epidemiology	0.2905026216692568	ecology	0	0	0
+epidemiology	0.2905435591213802	scientific communication and education	0	0	0
+epidemiology	0.29160454078671905	epidemiology	1	1	0
+epidemiology	0.29431415381463233	genetics	0	0	0
+epidemiology	0.29787894616929655	scientific communication and education	0	0	0
+epidemiology	0.29878235532486486	animal behavior and cognition	0	0	0
+epidemiology	0.29900244430695866	genetics	0	0	0
+epidemiology	0.30002033276880447	epidemiology	1	0	0
+epidemiology	0.30091939862039085	epidemiology	1	0	0
+epidemiology	0.3087804233127719	animal behavior and cognition	0	0	0
+epidemiology	0.3110054667936145	animal behavior and cognition	0	0	0
+epidemiology	0.31187652666707444	epidemiology	1	0	0
+epidemiology	0.3130817261198776	immunology	0	0	0
+epidemiology	0.31336394118053346	scientific communication and education	0	0	0
+epidemiology	0.31447926120017144	animal behavior and cognition	0	0	0
+epidemiology	0.3146354806946089	physiology	0	0	0
+epidemiology	0.31919714359157814	scientific communication and education	0	0	0
+epidemiology	0.31967718320140603	genetics	0	0	0
+epidemiology	0.32013647062681416	epidemiology	1	0	0
+epidemiology	0.3202522512296935	epidemiology	1	0	0
+epidemiology	0.325711848434711	animal behavior and cognition	0	0	0
+epidemiology	0.32762940759414483	epidemiology	1	0	0
+epidemiology	0.32921413398974364	physiology	0	0	0
+epidemiology	0.3292922236645389	animal behavior and cognition	0	0	0
+epidemiology	0.3297459210090923	epidemiology	1	0	0
+epidemiology	0.33105153123097164	ecology	0	0	0
+epidemiology	0.3311349547079434	genomics	0	0	0
+epidemiology	0.3329773350103944	epidemiology	1	0	0
+epidemiology	0.3331534816186481	ecology	0	0	0
+epidemiology	0.33325097367197243	epidemiology	1	0	0
+epidemiology	0.3339005342303162	genomics	0	0	0
+epidemiology	0.334116564715799	animal behavior and cognition	0	0	0
+epidemiology	0.3350085004001938	epidemiology	1	0	0
+epidemiology	0.33827420448605805	epidemiology	1	0	0
+epidemiology	0.3399067539800482	pharmacology and toxicology	0	0	0
+epidemiology	0.3401914717376724	pharmacology and toxicology	0	0	0
+epidemiology	0.3411552679672575	plant biology	0	0	0
+epidemiology	0.34194694994633634	microbiology	0	0	0
+epidemiology	0.3456074051963758	animal behavior and cognition	0	0	0
+epidemiology	0.3463114565778386	biochemistry	0	0	0
+epidemiology	0.3471025059231795	genetics	0	0	0
+epidemiology	0.34975890839460066	ecology	0	0	0
+epidemiology	0.34988910993743705	bioengineering	0	1	0
+epidemiology	0.35104654640229527	clinical trials	0	0	0
+epidemiology	0.352316743949488	animal behavior and cognition	0	0	0
+epidemiology	0.3547017283447813	pharmacology and toxicology	0	0	0
+epidemiology	0.3548484394146897	genetics	0	0	0
+epidemiology	0.357512693164036	scientific communication and education	0	0	0
+epidemiology	0.35830126491233194	cancer biology	0	0	0
+epidemiology	0.35844587873156075	epidemiology	1	0	0
+epidemiology	0.3609872618449923	animal behavior and cognition	0	0	0
+epidemiology	0.36305819531950556	ecology	0	0	0
+epidemiology	0.3633561394254734	animal behavior and cognition	0	0	0
+epidemiology	0.3674730737172396	bioinformatics	0	0	0
+epidemiology	0.3688897579838093	epidemiology	1	0	0
+epidemiology	0.3725037951673339	ecology	0	0	0
+epidemiology	0.3725344547287617	genetics	0	0	0
+epidemiology	0.3737919112102074	pharmacology and toxicology	0	0	0
+epidemiology	0.3765887280878656	epidemiology	1	0	0
+epidemiology	0.37810958094835945	pharmacology and toxicology	0	0	0
+epidemiology	0.3816292872397571	epidemiology	1	0	0
+epidemiology	0.382775799387052	bioengineering	0	0	0
+epidemiology	0.38446147111779816	ecology	0	0	0
+epidemiology	0.38480130324827155	evolutionary biology	0	0	0
+epidemiology	0.3854223102161972	genetics	0	0	0
+epidemiology	0.3860856685891403	epidemiology	1	0	0
+epidemiology	0.3863661262686877	epidemiology	1	0	0
+epidemiology	0.38740604138535506	zoology	0	0	0
+epidemiology	0.3921624187339633	immunology	0	0	0
+epidemiology	0.39344603772102527	ecology	0	0	0
+epidemiology	0.3944916786197753	epidemiology	1	0	0
+epidemiology	0.39616055343231327	animal behavior and cognition	0	0	0
+epidemiology	0.3968310179375051	animal behavior and cognition	0	0	0
+epidemiology	0.397285948244392	animal behavior and cognition	0	0	0
+epidemiology	0.39957620297958885	physiology	0	0	0
+epidemiology	0.40096002073226966	ecology	0	0	0
+epidemiology	0.40117187093758155	epidemiology	1	0	0
+epidemiology	0.4037371106159755	epidemiology	1	0	0
+epidemiology	0.4069030941603905	ecology	0	0	0
+epidemiology	0.4077268725747093	ecology	0	0	0
+epidemiology	0.40874259773951704	genetics	0	0	0
+epidemiology	0.4120147495969452	immunology	0	0	0
+epidemiology	0.41272230373235275	epidemiology	1	0	0
+epidemiology	0.41365628511440955	ecology	0	0	0
+epidemiology	0.4141733173946752	scientific communication and education	0	0	0
+epidemiology	0.41449661188559095	epidemiology	1	0	0
+epidemiology	0.4157425957391192	pathology	0	0	0
+epidemiology	0.41623204721528284	epidemiology	1	0	0
+epidemiology	0.41696863962963804	epidemiology	1	0	0
+epidemiology	0.41737486839756466	zoology	0	0	0
+epidemiology	0.41997972137626416	animal behavior and cognition	0	0	0
+epidemiology	0.4208811955297692	ecology	0	0	0
+epidemiology	0.423249287695705	animal behavior and cognition	0	0	0
+epidemiology	0.423717804623567	bioengineering	0	0	0
+epidemiology	0.42389806379261763	physiology	0	0	0
+epidemiology	0.42604097865006374	cancer biology	0	0	0
+epidemiology	0.428268863726609	epidemiology	1	0	0
+epidemiology	0.4316121389442594	animal behavior and cognition	0	0	0
+epidemiology	0.4335887231259269	animal behavior and cognition	0	0	0
+epidemiology	0.43359196399052014	molecular biology	0	0	0
+epidemiology	0.43419227037741903	epidemiology	1	0	0
+epidemiology	0.4347215437482914	epidemiology	1	0	0
+epidemiology	0.43668153597326775	systems biology	0	0	0
+epidemiology	0.4369323189079348	animal behavior and cognition	0	0	0
+epidemiology	0.4381249132164212	epidemiology	1	0	0
+epidemiology	0.441182126175359	ecology	0	0	0
+epidemiology	0.44395168677694496	evolutionary biology	0	0	0
+epidemiology	0.444410783093826	animal behavior and cognition	0	0	0
+epidemiology	0.44642672636136904	bioinformatics	0	0	0
+epidemiology	0.44839090894436096	animal behavior and cognition	0	0	0
+epidemiology	0.45230558634552187	epidemiology	1	0	0
+epidemiology	0.4559487247352053	immunology	0	0	0
+epidemiology	0.45637836115461416	genetics	0	0	0
+epidemiology	0.45703458835991184	physiology	0	0	0
+epidemiology	0.45754794269632704	epidemiology	1	0	0
+epidemiology	0.4577844906054829	evolutionary biology	0	0	0
+epidemiology	0.46069464636494384	epidemiology	1	0	0
+epidemiology	0.46129560488504107	animal behavior and cognition	0	0	0
+epidemiology	0.4612993211076549	ecology	0	0	0
+epidemiology	0.46142826850643426	epidemiology	1	0	0
+epidemiology	0.4633238014633152	epidemiology	1	0	0
+epidemiology	0.46434243988227863	epidemiology	1	0	0
+epidemiology	0.46773086723269686	pathology	0	0	0
+epidemiology	0.4699139671360424	animal behavior and cognition	0	0	0
+epidemiology	0.4704016874493936	evolutionary biology	0	0	0
+epidemiology	0.4714479895230851	scientific communication and education	0	0	0
+epidemiology	0.4714744035312046	zoology	0	0	0
+epidemiology	0.4815944752284944	epidemiology	1	0	0
+epidemiology	0.48321154793538457	ecology	0	0	0
+epidemiology	0.48436047293488993	animal behavior and cognition	0	0	0
+epidemiology	0.4850695312845619	pathology	0	0	0
+epidemiology	0.48632981809030984	animal behavior and cognition	0	0	0
+epidemiology	0.4863816759285273	epidemiology	1	0	0
+epidemiology	0.48674184790941355	cancer biology	0	0	0
+epidemiology	0.4886191060241756	epidemiology	1	0	0
+epidemiology	0.4896005207794717	epidemiology	1	1	0
+epidemiology	0.49071128374661954	animal behavior and cognition	0	0	0
+epidemiology	0.4909234929678121	ecology	0	0	0
+epidemiology	0.49105977433510895	epidemiology	1	0	0
+epidemiology	0.49216981214089706	epidemiology	1	0	0
+epidemiology	0.49325625925693617	animal behavior and cognition	0	0	0
+epidemiology	0.493767565496952	ecology	0	0	0
+epidemiology	0.4943031685366729	animal behavior and cognition	0	0	0
+epidemiology	0.49590411702950965	ecology	0	0	0
+epidemiology	0.496302036831916	zoology	0	0	0
+epidemiology	0.49737919888519944	ecology	0	0	0
+epidemiology	0.4980477930820264	immunology	0	0	0
+epidemiology	0.49958537569382866	bioengineering	0	0	0
+epidemiology	0.501332295401567	ecology	0	0	0
+epidemiology	0.5027841208745942	zoology	0	0	0
+epidemiology	0.5032470316467447	epidemiology	1	0	0
+epidemiology	0.5050086303644903	ecology	0	0	0
+epidemiology	0.5073646996940795	bioengineering	0	0	0
+epidemiology	0.5088868521379853	bioengineering	0	0	0
+epidemiology	0.5093769115984936	ecology	0	0	0
+epidemiology	0.510668524563194	ecology	0	0	0
+epidemiology	0.512647032670065	evolutionary biology	0	1	0
+epidemiology	0.5126505079763071	bioengineering	0	0	0
+epidemiology	0.5137736437870208	ecology	0	0	0
+epidemiology	0.5140426771825755	cancer biology	0	0	0
+epidemiology	0.51438321776526	epidemiology	1	0	0
+epidemiology	0.5174204035198502	genetics	0	0	0
+epidemiology	0.5179668724772757	epidemiology	1	1	0
+epidemiology	0.5181683841840878	physiology	0	0	0
+epidemiology	0.5182542584561654	evolutionary biology	0	0	0
+epidemiology	0.5182993291394321	animal behavior and cognition	0	0	0
+epidemiology	0.5187828389252898	genetics	0	0	0
+epidemiology	0.5210624834008191	genetics	0	0	0
+epidemiology	0.5218443502581673	zoology	0	0	0
+epidemiology	0.5237035043272196	bioengineering	0	0	0
+epidemiology	0.5289573569147361	genetics	0	0	0
+epidemiology	0.5303452360253513	ecology	0	0	0
+epidemiology	0.5303685277728205	epidemiology	1	0	0
+epidemiology	0.5334782244885907	epidemiology	1	0	0
+epidemiology	0.5346844496316918	plant biology	0	0	0
+epidemiology	0.5347983527614946	ecology	0	0	0
+epidemiology	0.5353413574445757	ecology	0	0	0
+epidemiology	0.5366977785636139	evolutionary biology	0	0	0
+epidemiology	0.5370002743508311	pharmacology and toxicology	0	0	0
+epidemiology	0.5383034612406102	zoology	0	0	0
+epidemiology	0.5385184419931176	ecology	0	0	0
+epidemiology	0.5389745312445506	epidemiology	1	0	0
+epidemiology	0.5394046423963971	molecular biology	0	0	0
+epidemiology	0.5400831664974084	bioengineering	0	0	0
+epidemiology	0.5403357274402782	epidemiology	1	0	0
+epidemiology	0.541156574628598	plant biology	0	0	0
+epidemiology	0.5413540752784893	systems biology	0	0	0
+epidemiology	0.5424648911083192	animal behavior and cognition	0	0	0
+epidemiology	0.5434545815992738	genetics	0	0	0
+epidemiology	0.543655334439943	epidemiology	1	0	0
+epidemiology	0.5441430586825167	ecology	0	0	0
+epidemiology	0.5441828704284989	genetics	0	0	0
+epidemiology	0.5445584571184348	pathology	0	0	0
+epidemiology	0.5455938396856466	animal behavior and cognition	0	0	0
+epidemiology	0.5461002088829998	genomics	0	0	0
+epidemiology	0.5463102031370979	systems biology	0	0	0
+epidemiology	0.5463752919465288	ecology	0	0	0
+epidemiology	0.5482477261830584	evolutionary biology	0	0	0
+epidemiology	0.5495459355531132	epidemiology	1	0	0
+epidemiology	0.5496702402293161	epidemiology	1	0	0
+epidemiology	0.5505121872378291	epidemiology	1	0	0
+epidemiology	0.5516340168722327	plant biology	0	0	0
+epidemiology	0.5517128575327002	physiology	0	0	0
+epidemiology	0.5523169746466424	ecology	0	0	0
+epidemiology	0.5524209938680911	epidemiology	1	0	0
+epidemiology	0.5541974877297107	ecology	0	0	0
+epidemiology	0.5547277207115519	animal behavior and cognition	0	0	0
+epidemiology	0.5553973569991566	animal behavior and cognition	0	0	0
+epidemiology	0.5562891429502852	animal behavior and cognition	0	0	0
+epidemiology	0.556374361122072	pharmacology and toxicology	0	0	0
+epidemiology	0.5581255058523975	bioinformatics	0	0	0
+epidemiology	0.5582616051582014	physiology	0	0	0
+epidemiology	0.5587757209722188	evolutionary biology	0	0	0
+epidemiology	0.5617840058122696	ecology	0	0	0
+epidemiology	0.5625308982687778	ecology	0	0	0
+epidemiology	0.5627701907966169	animal behavior and cognition	0	0	0
+epidemiology	0.5652791594735976	immunology	0	0	0
+epidemiology	0.5668130104123699	animal behavior and cognition	0	0	0
+epidemiology	0.5713950173893756	genetics	0	1	0
+epidemiology	0.5718947795902127	cancer biology	0	0	0
+epidemiology	0.5726324542420775	genomics	0	0	0
+epidemiology	0.5728324271999077	pathology	0	0	0
+epidemiology	0.5738443055788147	animal behavior and cognition	0	0	0
+epidemiology	0.5748327547180283	genetics	0	0	0
+epidemiology	0.574894284532125	epidemiology	1	0	0
+epidemiology	0.5750177975042279	ecology	0	0	0
+epidemiology	0.575683671134853	systems biology	0	0	0
+epidemiology	0.5761435196013198	pharmacology and toxicology	0	0	0
+epidemiology	0.577766968499643	animal behavior and cognition	0	0	0
+epidemiology	0.5782704842447097	zoology	0	0	0
+epidemiology	0.5783017739845357	zoology	0	0	0
+epidemiology	0.5783667323577554	paleontology	0	0	0
+epidemiology	0.5785641992084836	zoology	0	0	0
+epidemiology	0.578787492518959	epidemiology	1	0	0
+epidemiology	0.5795700939034885	ecology	0	0	0
+epidemiology	0.5797690448388789	ecology	0	0	0
+epidemiology	0.580308785714993	zoology	0	0	0
+epidemiology	0.5804191695022449	scientific communication and education	0	0	0
+epidemiology	0.5806958024384813	ecology	0	0	0
+epidemiology	0.5818819491572289	genetics	0	0	0
+epidemiology	0.5821940759034958	ecology	0	1	0
+epidemiology	0.5822843523989136	epidemiology	1	0	0
+epidemiology	0.582493517055399	ecology	0	0	0
+epidemiology	0.5825199840560558	ecology	0	0	0
+epidemiology	0.5827223920949784	zoology	0	0	0
+epidemiology	0.5839103829127568	genetics	0	0	0
+epidemiology	0.5844247680077496	microbiology	0	0	0
+epidemiology	0.5846461878848377	ecology	0	0	0
+epidemiology	0.5856676854967644	ecology	0	0	0
+epidemiology	0.5865738444030311	ecology	0	0	0
+epidemiology	0.5868049909769277	ecology	0	0	0
+epidemiology	0.5875372532373093	animal behavior and cognition	0	0	0
+epidemiology	0.5887095200090264	evolutionary biology	0	0	0
+epidemiology	0.5887991326938833	physiology	0	0	0
+epidemiology	0.5888042441807705	epidemiology	1	0	0
+epidemiology	0.5892697847857752	epidemiology	1	0	0
+epidemiology	0.5897752691787719	epidemiology	1	0	0
+epidemiology	0.5899497459892649	genetics	0	0	0
+epidemiology	0.5906630973539078	epidemiology	1	0	0
+epidemiology	0.5919301208622816	evolutionary biology	0	0	0
+epidemiology	0.5925659941629777	ecology	0	0	0
+epidemiology	0.5927553301967472	ecology	0	0	0
+epidemiology	0.5937390641751031	paleontology	0	0	0
+epidemiology	0.5945442076295492	animal behavior and cognition	0	0	0
+epidemiology	0.5949310646066912	evolutionary biology	0	0	0
+epidemiology	0.5957095169485653	ecology	0	0	0
+epidemiology	0.5958492032286873	ecology	0	0	0
+epidemiology	0.5961364330541806	cancer biology	0	0	0
+epidemiology	0.5961682284481309	ecology	0	0	0
+epidemiology	0.5966488193453516	animal behavior and cognition	0	0	0
+epidemiology	0.5972867218302733	paleontology	0	0	0
+epidemiology	0.5973724674350687	animal behavior and cognition	0	0	0
+epidemiology	0.5973958166006722	ecology	0	0	0
+epidemiology	0.5978972373786546	ecology	0	0	0
+epidemiology	0.5983150579142803	ecology	0	0	0
+epidemiology	0.5988501392477773	ecology	0	0	0
+epidemiology	0.5991495831193063	ecology	0	0	0
+epidemiology	0.5995395471430065	ecology	0	0	0
+epidemiology	0.5997226625381924	animal behavior and cognition	0	0	0
+epidemiology	0.6003308770268607	ecology	0	0	0
+epidemiology	0.6004950684180026	ecology	0	0	0
+epidemiology	0.6007080899952217	ecology	0	1	0
+epidemiology	0.6012535608805009	pharmacology and toxicology	0	0	0
+epidemiology	0.6017642657486817	ecology	0	0	0
+epidemiology	0.6022930395223194	ecology	0	0	0
+epidemiology	0.6025475259837639	ecology	0	0	0
+epidemiology	0.6027284139410811	genomics	0	0	0
+epidemiology	0.6031695472069958	ecology	0	0	0
+epidemiology	0.6032443751097096	ecology	0	0	0
+epidemiology	0.6036471702245776	paleontology	0	0	0
+epidemiology	0.6038947405014656	ecology	0	0	0
+epidemiology	0.6043118859874503	pathology	0	0	0
+epidemiology	0.6043571055141642	ecology	0	0	0
+epidemiology	0.6044971822139018	zoology	0	0	0
+epidemiology	0.6045923199704935	ecology	0	0	0
+epidemiology	0.6049841836629816	ecology	0	0	0
+epidemiology	0.6051908755579832	bioinformatics	0	0	0
+epidemiology	0.6053912475795155	ecology	0	0	0
+epidemiology	0.6060465952063938	ecology	0	0	0
+epidemiology	0.6062203746834312	evolutionary biology	0	0	0
+epidemiology	0.6062710310425321	ecology	0	0	0
+epidemiology	0.6074909996580468	animal behavior and cognition	0	0	0
+epidemiology	0.6075614260979066	ecology	0	0	0
+epidemiology	0.6076895679204177	ecology	0	0	0
+epidemiology	0.6079943151444451	ecology	0	0	0
+epidemiology	0.6080062142130118	epidemiology	1	0	0
+epidemiology	0.6083408724524548	ecology	0	0	0

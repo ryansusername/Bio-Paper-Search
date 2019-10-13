@@ -1,0 +1,21 @@
+db.getCollection('bioPapers').aggregate([
+    {
+        $match: {
+            maintext_encoding01: { $exists: true }
+        }
+    },
+    { $unwind: "$paperSubject" },
+    {
+        $group: {
+            _id: {$toLower: '$paperSubject'},
+            count: { $sum: 1 }
+        }
+    },
+    {
+        $match: {
+            count: { $gte: 2 }
+        }
+    },
+    { $sort : { count : -1} },
+    { $limit : 100 }
+]);
